@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="AdvancedLevel" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="8.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAgAAiAAAAAAAAAAAABAAAAAAAAAAAAAEAAAAAI=</HashCode>
+      <FileName>Assets\AdvancedLevel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BaseDecorator">
+    <Position X="4.75" Y="0.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAEAAAAQA=</HashCode>
+      <FileName>Assets\BaseDecorator.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Box" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="10.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MAAAAACwAAABAAAAAAAAAAAAAEAAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>Assets\Box.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Chest" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="12" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MCAAAADwAAABAAAAAAAAAAAAAEAAAAAAAEAAEAAAAAA=</HashCode>
+      <FileName>Assets\Chest.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="EaseLevel" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="13.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAgAAiAAAAAAAAAAAABAAAAAAAAAAAAAEAAAAAI=</HashCode>
+      <FileName>Assets\EaseLevel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Enemy" Collapsed="true">
+    <Position X="8.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAABAAAAAAAAAAEAAAAAQAAAAEAAAAAo=</HashCode>
+      <FileName>Assets\Enemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnemyDecorator">
+    <Position X="6.25" Y="3.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAIAAAAAIAAAAAAAAAAAAEAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>Assets\EnemyDecorator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnemyType">
+    <Position X="10.25" Y="1.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>MAAAAACwAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\EnemyType.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnemyTypeFactory">
+    <Position X="15.75" Y="2" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAQAABgAAAAAGAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\EnemyTypeFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GoldenChest" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="13.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MAAAAAC4AAABAEAAAAAAAAAAAEAAAAAAAQAAEAAAAAA=</HashCode>
+      <FileName>Assets\GoldenChest.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="GoldenChestDecorator">
+    <Position X="3.5" Y="3.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAIAAAAAIAAAAAAEAAAAAEAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>Assets\GoldenChestDecorator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LevelSelector" Collapsed="true">
+    <Position X="8.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAIAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\LevelSelector.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MusicFacade">
+    <Position X="12.5" Y="3.75" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAABCAAAAAACAFAAAAAAAAAAgAAAACCAAAAAAAAAA=</HashCode>
+      <FileName>Assets\MusicFacade.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NormalLevel" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="12" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAgAAiAAAAAAAAAAAABAAAAAAAAAAAAAEAAAAAI=</HashCode>
+      <FileName>Assets\NormalLevel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Player" Collapsed="true">
+    <Position X="13.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAiAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Player_new" Collapsed="true">
+    <Position X="8.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAiAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Player_new.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SingletonBarrel" Collapsed="true">
+    <Position X="10.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAAAAAAACAAAEBAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\SingletonBarrel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="IDifficulty" Collapsed="true">
+    <Position X="8.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAgAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\IDifficulty.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="IPrototype">
+    <Position X="10.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>Assets\IPrototype.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
